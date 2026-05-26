@@ -18,7 +18,6 @@ A simple command-line Hangman game in Python. Before your game begins, the compu
 
 ```bash
 python -m venv .venv
-.
 ```
 
 2. Install dependencies:
